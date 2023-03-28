@@ -1,5 +1,3 @@
-
-
 # Philosophy of Language - PHIL 405
 This video series is intended to provide philosophy students a very basic introduction to Philosophy of Language. 
 Phil 405 - Philosophy of Language @ METU Philosophy Department
