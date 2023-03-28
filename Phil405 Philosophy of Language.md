@@ -1,22 +1,22 @@
 
 
 
-## Week 1
+## Lecture 1
 ### Key concepts
-[Link text] (https://www.youtube.com/watch?v=65CenQZ4_uY&list=PLuLP3jHbfZzc6YWyaum7_YVZOHVVchMSa&index=1)
-## Week 2
+[Link text] https://www.youtube.com/watch?v=65CenQZ4_uY&list=PLuLP3jHbfZzc6YWyaum7_YVZOHVVchMSa&index=1
+## Lecture 2
 ### Compositionality of Meaning
-[Link Text] (https://www.youtube.com/watch?v=x4qFUSW52zo&list=PLuLP3jHbfZzc6YWyaum7_YVZOHVVchMSa&index=2)
-## Week 3
+[Link Text] https://www.youtube.com/watch?v=x4qFUSW52zo&list=PLuLP3jHbfZzc6YWyaum7_YVZOHVVchMSa&index=2
+## Lecture 3
 ### Davidsonian Semantics Part I
 [Link Text] https://www.youtube.com/watch?v=YpDqfa8lhkw&list=PLuLP3jHbfZzc6YWyaum7_YVZOHVVchMSa&index=3
-## Week 4
+## Lecture 4
 ### Davidsonian Semantics Part II
 [Link Text] https://www.youtube.com/watch?v=aW6mtx8yHM4&list=PLuLP3jHbfZzc6YWyaum7_YVZOHVVchMSa&index=4
-## Week 5
+## Lecture 5
 ### Frege, The Identity Puzzle
 [Link Text] https://www.youtube.com/watch?v=JIpD7TW2LqM&list=PLuLP3jHbfZzc6YWyaum7_YVZOHVVchMSa&index=5
-## Week 6
+## Lecture 6
 ### Frege, Propositional Attitude Puzzle
 [Link Text] https://www.youtube.com/watch?v=k47LE5yXJ5g&list=PLuLP3jHbfZzc6YWyaum7_YVZOHVVchMSa&index=6
 ## Lecture 7
