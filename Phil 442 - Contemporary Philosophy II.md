@@ -15,6 +15,8 @@ Research Assistant Tolgahan Toy
 - MacFarlane, J., 2002, “Frege, Kant, and the Logic in Logicism”, Philosophical Review, 111(1): 25–66.
 - Sluga, H., 1980, Gottlob Frege, London: Routledge and Kegan Paul.
 #### Lecture videos
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BPXl8y9UGIo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 - https://www.youtube.com/watch?v=BPXl8y9UGIo&list=PLuLP3jHbfZzeP_mMwjYKhMcmN5RgsQoCz&index=1
 ## Lecture 2
 ### Frege, The Foundations of Arithmetic - Part I
